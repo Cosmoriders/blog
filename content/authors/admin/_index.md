@@ -18,7 +18,8 @@ role: ''
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: There's a Cosmorider waiting in the sky.
+bio: 
+#There's a Cosmorider waiting in the sky.
 
 
 empty:

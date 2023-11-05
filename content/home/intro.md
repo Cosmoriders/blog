@@ -16,12 +16,10 @@ author: admin
 #    video:
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
+#There's a **Cosmoriders** waiting in the sky.
+#{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, ##FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 ---
 ![](/logo.png)
-
-There's a **Cosmoriders** waiting in the sky.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-
 
 Cosmoriders è uno studio di grafica e sviluppo web&app. 
 Siamo equipaggiati per lavorare su social media, giochi, editoria, pubblicità, eventi, stampa su oggetti e modellazione 3D. 
