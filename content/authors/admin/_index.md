@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cosmoriders
+title: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,6 +20,8 @@ role: ''
 # Short bio (displayed in user profile at end of posts)
 bio: There's a Cosmorider waiting in the sky.
 
+
+empty:
 #interests:
 #- Artificial Intelligence
 #- Computational Linguistics
